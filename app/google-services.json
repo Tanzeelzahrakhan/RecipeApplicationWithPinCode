@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "800025202182",
+    "firebase_url": "https://recipeapplicationtwo-default-rtdb.firebaseio.com",
+    "project_id": "recipeapplicationtwo",
+    "storage_bucket": "recipeapplicationtwo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800025202182:android:fbc22c4794095a5d13fd87",
+        "android_client_info": {
+          "package_name": "com.example.recipeapplicationtwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800025202182-lo8ej0i1jjmurhqnr6f9nltf1ugc1v8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW18KA2s6IsA5fkIdhs4wYVyD_lCMI6so"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800025202182-lo8ej0i1jjmurhqnr6f9nltf1ugc1v8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
